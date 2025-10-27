@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "label": "Acolhimento",
+      "value": 30
+    },
+    {
+      "label": "Tratamento",
+      "value": 45
+    },
+    {
+      "label": "Reinserção",
+      "value": 15
+    },
+    {
+      "label": "Prevenção",
+      "value": 10
+    }
+  ],
+  "volunteers": [
+    5,
+    8,
+    12,
+    18,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60
+  ],
+  "beneficiaries_per_region": [
+    120,
+    200,
+    80,
+    250,
+    160
+  ]
+}
